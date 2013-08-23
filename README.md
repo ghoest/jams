@@ -3,6 +3,8 @@ jams
 
 Just Another Media Server
 
+NOTE: there's nothing useful in this project yet.
+
 Just what is JAMS?
 It's not _really_ a media server.  There are already plenty of media servers out there; both closed and open source.
 There'll be a web interface (probably AJAX), but that's something I expect to run in pretty much any web server.
